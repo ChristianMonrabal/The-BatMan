@@ -50,6 +50,18 @@ img {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: red
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding: 12px;
+}
+
 
 /*Diseño Responsive*/
 
